@@ -30,3 +30,10 @@ PERSONAL SKILLS:
 GROUP SKILLS:
 - The ability to work in a group and complete a project from start to finish.
 
+Any informations needed will be in the B-CPE-201_Corewar.pdf
+
+CREDITS:
+-Joris FRANCIN
+-Antoine RADICE
+-Alfred Ternynck
+-Charles BAUX
