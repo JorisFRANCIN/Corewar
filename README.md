@@ -33,7 +33,7 @@ GROUP SKILLS:
 Any informations needed will be in the B-CPE-201_Corewar.pdf
 
 # CREDITS:
--Joris FRANCIN
--Antoine RADICE
--Alfred Ternynck
--Charles BAUX
+- Joris FRANCIN
+- Antoine RADICE
+- Alfred Ternynck
+- Charles BAUX
