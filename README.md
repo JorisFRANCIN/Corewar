@@ -14,7 +14,7 @@ It will certainly cover more complex and advanced problems than its predecessor.
 # ....................
 Your projects' success will demonstrate that you have acquired the minimum ability required for each of the following points.
 
-Skills to be acquired:
+# Skills to be acquired:
 
 The goal of this unit is to acquire the skills to be able to create any project in C.
 
@@ -32,8 +32,7 @@ GROUP SKILLS:
 
 # Usage
 
-Execute `make` then `./tetris`
-Add the `--help` option for more information or check the B-CPE-201_Corewar.pdf
+Check out the B-CPE-201_Corewar.pdf
 
 # CREDITS:
 - Joris FRANCIN
