@@ -30,7 +30,10 @@ PERSONAL SKILLS:
 GROUP SKILLS:
 - The ability to work in a group and complete a project from start to finish.
 
-Any informations needed will be in the B-CPE-201_Corewar.pdf
+# Usage
+
+Execute `make` then `./tetris`
+Add the `--help` option for more information or check the B-CPE-201_Corewar.pdf
 
 # CREDITS:
 - Joris FRANCIN
