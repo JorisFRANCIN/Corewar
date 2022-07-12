@@ -1,6 +1,6 @@
-# Corewar
+## Corewar
 
-Unit description
+# Unit description
 
 TOPICS COVERED:
 
@@ -11,7 +11,7 @@ This unit is comprised of one big project: The Corewar
 It will certainly cover more complex and advanced problems than its predecessor. 
 
 
-....................
+# ....................
 Your projects' success will demonstrate that you have acquired the minimum ability required for each of the following points.
 
 Skills to be acquired:
@@ -32,7 +32,7 @@ GROUP SKILLS:
 
 Any informations needed will be in the B-CPE-201_Corewar.pdf
 
-CREDITS:
+# CREDITS:
 -Joris FRANCIN
 -Antoine RADICE
 -Alfred Ternynck
